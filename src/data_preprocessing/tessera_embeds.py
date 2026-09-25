@@ -420,7 +420,6 @@ if __name__ == "__main__":
 
     print(os.getcwd())
 
-    # df = pd.read_csv("data/heat_guatemala/model_ready_heat_guatemala.csv")
     # df = pd.read_csv("/lustre/backup/SHARED/AIN/aether/data/s2bms/model_ready_s2bms.csv")
     df = pd.read_csv("data/s2bms/model_ready_s2bms.csv")
 
